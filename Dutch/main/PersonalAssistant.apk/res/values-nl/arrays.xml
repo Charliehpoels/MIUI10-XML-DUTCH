@@ -14,22 +14,34 @@
         <item>Regular</item>
         <item>Large</item>
     </string-array>
-    <string-array name="express_status_all">
-        <item>Onderweg</item>
-        <item>Uitleveren</item>
-        <item>Verzonden</item>
-        <item>Onbekend</item>
-        <item>Ontvangen</item>
-        <item>Geweigerd</item>
-        <item>Teruggestuurd</item>
-        <item>Onbekend</item>
-    </string-array>
-    <string-array name="express_status_detail">
-        <item>Onderweg</item>
-        <item>Uitleveren</item>
-    </string-array>
     <string-array name="stock_color_schema">
         <item>Rood - boven, groen - beneden</item>
         <item>Groen - boven, rood - beneden</item>
+    </string-array>
+    <string-array name="express_watched_app_filter">
+        <item>承运公司:</item>
+        <item>运单编号:</item>
+        <item>信息来源：</item>
+        <item>物流信息：</item>
+    </string-array>
+    <string-array name="keyword_recommend_unit">
+        <item>要</item>
+        <item>只要</item>
+    </string-array>
+    <string-array name="map_keyword">
+        <item>拥堵</item>
+        <item>公里拥堵</item>
+        <item>公里缓行</item>
+        <item>道路施工</item>
+    </string-array>
+    <string-array name="map_title">
+        <item>错峰出行</item>
+        <item>有严重拥堵</item>
+        <item>路况畅通</item>
+        <item>无明显拥堵</item>
+        <item>有异常交通</item>
+    </string-array>
+    <string-array name="sms_exclude_category">
+        <item>还款</item>
     </string-array>
 </resources>

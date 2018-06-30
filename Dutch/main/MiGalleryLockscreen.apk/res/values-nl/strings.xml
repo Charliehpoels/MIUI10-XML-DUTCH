@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abc_action_bar_home_description">Navigeer naar startscherm</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Navigeer omhoog</string>
   <string name="abc_action_menu_overflow_description">Meer opties</string>
   <string name="abc_action_mode_done">Klaar</string>
@@ -17,6 +19,8 @@
   <string name="abc_shareactionprovider_share_with">Delen met</string>
   <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
   <string name="abc_toolbar_collapse_description">Inklappen</string>
+  <string name="ad_pop_btn_hidden">隐藏</string>
+  <string name="ad_pop_des">应用下载中：</string>
   <string name="add_launch_hint_text">Startscherm snelkoppeling toevoegen</string>
   <string name="app_name">Mi Achtergrondcarrousel</string>
   <string name="apply">Toepassen</string>
@@ -83,12 +87,14 @@
   <string name="double_click_to_exit_activity">Tik nogmaals om af te sluiten</string>
   <string name="explorer_activity_title">Achtergrond carrousel</string>
   <string name="from_migallerylockscreen">Van Mi achtergrond carrousel</string>
+  <string name="get_account_no_permission">如需登录，请设置允许访问用户账户权限</string>
   <string name="hour_1">Elk uur</string>
   <string name="hour_3">Elke 3 uur</string>
   <string name="idbct_desc">Achtergrond carrousel aanpassen volgens netwerktypen</string>
   <string name="idbct_opt_auto_select_desc_text">Download standaardafbeeldingen met mobiele gegevens en HD afbeeldingen via Wi-Fi</string>
   <string name="idbct_opt_auto_select_main_text">Automatisch</string>
   <string name="idbct_opt_high_def_desc_text">Altijd HD afbeeldingen downloaden</string>
+  <string name="idbct_opt_high_def_main_text">HD</string>
   <string name="idbct_title">Netwerk types</string>
   <string name="like">Toevoegen aan favorieten</string>
   <string name="liked">Toegevoegd aan favorieten</string>
@@ -384,6 +390,7 @@ Om uw account te activeren, volgt u de
   <string name="theme_applying">Toepassen…</string>
   <string name="toast_ad_down_tip">App downloaden…</string>
   <string name="toast_ad_down_tip2">%s downloaden</string>
+  <string name="toast_load_hd_fail">加载原图失败</string>
   <string name="toast_neterror_tip">Er is een netwerkfout opgetreden</string>
   <string name="top_search_tip">Zoek naar de categorieën die je leuk vindt</string>
   <string name="uninstall_introducation_text_desc">Achtergrondcarrousel levert nieuwe kwaliteitsafbeeldingen rechtstreeks op uw vergrendelscherm. Zorg ervoor dat je de functies ervan kunt gebruiken voordat je de app verwijdert.</string>
