@@ -600,7 +600,6 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="face_data_manage_unlock_msg">Ontgrendel het apparaat met uw gezichtsgegevens</string>
   <string name="face_data_manage_unlock_title">Ontgrendelen door gebruik van gezichtsgegevens</string>
   <string name="face_data_siggesstion_next">Volgende</string>
-  <string name="face_data_siggesstion_next_time">Volgende (%ds)</string>
   <string name="face_data_suggesstion_first">SBeveiligingsproblemen: ontgrendeling van het gezicht is minder veilig dan een pincode, wachtwoord of patroon. Uw apparaat is mogelijk ontgrendeld met uw foto, maar ook door mensen of objecten met een vergelijkbare uitstraling.</string>
   <string name="face_data_suggesstion_second">Zorg ervoor dat alle delen van uw gezicht niet bedekt zijn door objecten en duidelijk zichtbaar zijn. Je gezicht moet ook goed verlicht zijn.</string>
   <string name="face_unlock_adjust_distance">Zorg ervoor dat de afstand tussen uw gezicht en het scherm optimaal is.</string>
@@ -654,11 +653,9 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="force_resizable_activities_summary">Alle activiteiten schaalbaar maken voor splitscreen</string>
   <string name="force_rtl_layout_all_locales">RTL layoutdirectie forceren</string>
   <string name="force_rtl_layout_all_locales_summary">Schermlayoutdirectie naar RTL forceren voor alle landen</string>
-  <string name="forced_resizable_secondary_display">App werkt mogelijk niet op een tweede scherm.</string>
   <string name="forget_password_string">Wachtwoord vergeten</string>
   <string name="fs_gesture_back_home_summary">Veeg snel vanaf de onderkant</string>
   <string name="fs_gesture_back_ready_title">Terug</string>
-  <string name="fs_gesture_final_over">Ik ben klaar</string>
   <string name="fs_gesture_final_restart">Nog een keer</string>
   <string name="fs_gesture_final_summary">Je kan de knoppen terugkrijgen door deze in te stellen in Instellingen &gt; Fullscreen display</string>
   <string name="fs_gesture_final_title">Je bent klaar</string>

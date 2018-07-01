@@ -563,7 +563,6 @@ Sample Rate"</string>
   <string name="daltonizer_mode_protanomaly">Protanomalie (rood-groen)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalie (blauw-geel)</string>
   <string name="daltonizer_type_overridden">Overschreven door %1$s</string>
-  <string name="data_enable_summary">Dit apparaat toestaan om mobiele data te gebruiken</string>
   <string name="data_enabled">Mobiele data</string>
   <string name="data_plan">Mobiele data plannen</string>
   <string name="data_usage_uninstalled_apps">Verwijderde apps</string>
@@ -588,7 +587,6 @@ Sample Rate"</string>
   <string name="debug_view_attributes">Schakel de controle van de weergave-attributen in</string>
   <string name="default_notification_description">Standaard geluid (%1$s)</string>
   <string name="default_preference_summary">&lt;Niet ingesteld&gt;</string>
-  <string name="default_preference_summary_domain_address">&lt;Niet ingesteld&gt;</string>
   <string name="default_preference_summary_password">&lt;Niet ingesteld&gt;</string>
   <string name="default_preference_summary_username">&lt;Niet ingesteld&gt;</string>
   <string name="delete">Verwijderen</string>
