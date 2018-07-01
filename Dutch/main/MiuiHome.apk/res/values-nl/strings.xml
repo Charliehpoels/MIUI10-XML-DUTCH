@@ -103,8 +103,6 @@
   <string name="deselect_all">Alles deselecteren</string>
   <string name="disable_wallpaper_scroll">Opzij scrollen uitschakelen</string>
   <string name="download_action">Downloaden</string>
-  <string name="drag_multiple_item_name"/>
-  <string name="drag_single_item_name"/>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
@@ -272,7 +270,6 @@
   <string name="preferences_general_title">Standaardinstellingen</string>
   <string name="preferences_title">Launcherinstellingen</string>
   <string name="preferred_app_settings_not_selected">Niet geselecteerd</string>
-  <string name="process"/>
   <string name="quick_app">Snelle App</string>
   <string name="recents_config_title">Recente</string>
   <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
@@ -299,7 +296,6 @@
   <string name="settings">Instellingen</string>
   <string name="settings_shortcut">Instellingen</string>
   <string name="share">Delen</string>
-  <string name="sharedUserId"/>
   <string name="show_all">Alles weergeven</string>
   <string name="show_mem_info_title">Geheugenstatus weergeven</string>
   <string name="sort_by_abc">Sorteren op naam</string>

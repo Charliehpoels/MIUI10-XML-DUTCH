@@ -432,11 +432,9 @@ Sample Rate"</string>
   <string name="compat_mode_off">Uitrekken om scherm te vullen</string>
   <string name="compat_mode_on">Zoom om het scherm te vullen</string>
   <string name="config_navBarLayout">links,terug,home,recent,rechts</string>
-  <string name="config_persistentDockedActivityIntentUri"/>
   <string name="config_rat_2g">2G</string>
   <string name="config_rat_3g">3G</string>
   <string name="config_rat_4g">4G</string>
-  <string name="config_rat_unknown"/>
   <string name="confirm">Begrepen</string>
   <string name="confirm_enable_oem_unlock_text">WAARSCHUWING: Apparaatbeveiligingsfuncties werken niet op dit apparaat wanneer deze instelling is ingeschakeld.</string>
   <string name="confirm_enable_oem_unlock_title">OEM ontgrendeling toestaan?</string>
@@ -531,8 +529,6 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="dock_forced_resizable">Deze app werkt mogelijk niet met splitscreen.</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">Splitscreen is niet ondersteund op het vergrendelscherm.</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Deze app ondersteunt geen splitscreen.</string>
-  <string name="doze_brightness_sensor_type"/>
-  <string name="doze_pickup_subtype_performs_proximity_check"/>
   <string name="drag_to_add_tiles">Sleep om tegels toe te voegen</string>
   <string name="drag_to_remove_tiles">Sleep hier om te verwijderen</string>
   <string name="drive_mode_tip">Car modus is ingeschakeld</string>
@@ -600,6 +596,7 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="face_data_manage_unlock_msg">Ontgrendel het apparaat met uw gezichtsgegevens</string>
   <string name="face_data_manage_unlock_title">Ontgrendelen door gebruik van gezichtsgegevens</string>
   <string name="face_data_siggesstion_next">Volgende</string>
+  <string name="face_data_siggesstion_next_time">Volgende (%ds)</string>
   <string name="face_data_suggesstion_first">SBeveiligingsproblemen: ontgrendeling van het gezicht is minder veilig dan een pincode, wachtwoord of patroon. Uw apparaat is mogelijk ontgrendeld met uw foto, maar ook door mensen of objecten met een vergelijkbare uitstraling.</string>
   <string name="face_data_suggesstion_second">Zorg ervoor dat alle delen van uw gezicht niet bedekt zijn door objecten en duidelijk zichtbaar zijn. Je gezicht moet ook goed verlicht zijn.</string>
   <string name="face_unlock_adjust_distance">Zorg ervoor dat de afstand tussen uw gezicht en het scherm optimaal is.</string>
@@ -653,9 +650,11 @@ Als u gegevens opnieuw inschakelt, kan je provider kosten aanrekenen."</string>
   <string name="force_resizable_activities_summary">Alle activiteiten schaalbaar maken voor splitscreen</string>
   <string name="force_rtl_layout_all_locales">RTL layoutdirectie forceren</string>
   <string name="force_rtl_layout_all_locales_summary">Schermlayoutdirectie naar RTL forceren voor alle landen</string>
+  <string name="forced_resizable_secondary_display">App werkt mogelijk niet op een tweede scherm.</string>
   <string name="forget_password_string">Wachtwoord vergeten</string>
   <string name="fs_gesture_back_home_summary">Veeg snel vanaf de onderkant</string>
   <string name="fs_gesture_back_ready_title">Terug</string>
+  <string name="fs_gesture_final_over">Ik ben klaar</string>
   <string name="fs_gesture_final_restart">Nog een keer</string>
   <string name="fs_gesture_final_summary">Je kan de knoppen terugkrijgen door deze in te stellen in Instellingen &gt; Fullscreen display</string>
   <string name="fs_gesture_final_title">Je bent klaar</string>
@@ -1174,7 +1173,6 @@ U bent ook verbonden met een VPN, die uw netwerkactiviteit kan controleren."</st
   <string name="notification_tap_again">Tik opnieuw om te openen</string>
   <string name="notification_template_text">Nieuwe melding. Tik om te bekijken</string>
   <string name="np_mcc">429</string>
-  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM ontgrendelen</string>
   <string name="oem_unlock_enable_summary">Toestaan dat de bootloader wordt ontgrendeld</string>
   <string name="oldman_airplane_mode_text">Vliegmodus</string>
@@ -1533,7 +1531,6 @@ d MMMM"</string>
   <string name="status_bar_recent_guide_top">Schuif omhoog om te sluiten</string>
   <string name="status_bar_recent_inspect_item_title">Appinfo</string>
   <string name="status_bar_recent_memory_info1">%1$sB van %2$sB beschikbaar</string>
-  <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recent_remove_item_title">Verwijderen van lijst</string>
   <string name="status_bar_recording_back">Terugkeren naar recorder</string>
   <string name="status_bar_recording_pause">Recorder is gepauzeerd. Klik om terug te gaan naar de recorder.</string>

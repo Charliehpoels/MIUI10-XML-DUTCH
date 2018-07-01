@@ -150,7 +150,6 @@
   <string name="card_title_sportassist">Sportassistant</string>
   <string name="card_trip_arrive">Aankomst</string>
   <string name="card_trip_dep">Vertrek</string>
-  <string name="cashier_str_null"/>
   <string name="category_atm">Opnames bij geldautomaat</string>
   <string name="category_catering">Eten</string>
   <string name="category_education">Onderwijs</string>
@@ -324,7 +323,6 @@
   <string name="express_inquiry_button_text">Tracken</string>
   <string name="express_inquiry_clipboard_number_message">Gekopieerd nummer tracken?</string>
   <string name="express_inquiry_data_owner_prefix">"Trackinginformatie geleverd door "</string>
-  <string name="express_inquiry_data_owner_suffix"/>
   <string name="express_inquiry_delete_warning_multiple">%d verwijderen?</string>
   <string name="express_inquiry_delete_warning_single">Deze verwijderen?</string>
   <string name="express_inquiry_delivered">Afgeleverd</string>

@@ -265,7 +265,6 @@ Sample Rate"</string>
   <string name="notification_missedCallsMsg">%s gemiste oproepen</string>
   <string name="notification_missedCallsTitle">Gemiste oproepen</string>
   <string name="notification_missedWorkCallTitle">Gemiste werkoproep</string>
-  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM ontgrendeling</string>
   <string name="oem_unlock_enable_summary">Toestaan om bootloader te ontgrendelen</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Oproep niet verzonden, geen geldig nummer ingevoerd.</string>
@@ -289,7 +288,6 @@ Sample Rate"</string>
   <string name="respond_via_sms_canned_response_4">Kan nu niet praten. Bel me later terug?</string>
   <string name="respond_via_sms_confirmation_format">Bericht verzonden naar %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Snel antwoord</string>
-  <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Snelle antwoorden</string>
   <string name="respond_via_sms_setting_title_2">Snelle antwoorden bewerken</string>
   <string name="retail_demo_reset_message">Voer wachtwoord in om fabrieksreset uit te voeren in demomodus</string>

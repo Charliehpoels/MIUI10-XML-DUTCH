@@ -1003,10 +1003,6 @@
         <item>Appvergrendeling</item>
         <item>Tweede ruimte</item>
     </string-array>
-    <array name="config_preinstalled_audio_and_caption_services" />
-    <array name="config_preinstalled_display_services" />
-    <array name="config_preinstalled_interaction_control_services" />
-    <array name="config_preinstalled_screen_reader_services" />
     <string-array name="connect_mode_entries">
         <item>Compatibiliteit</item>
         <item>Hoge snelheid</item>

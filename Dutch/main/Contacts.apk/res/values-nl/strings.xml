@@ -731,7 +731,6 @@ Om frequente zoekopdrachten te vermijden, updaten we saldo-informatie een keer p
   <string name="nickname_picker_name_column">Contactnaam</string>
   <string name="nickname_picker_nickname_column">Titel</string>
   <string name="noAccounts">U heeft een account nodig om groepen te maken.</string>
-  <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Contacten herstellen van Mi Account</string>
   <string name="noContacts">Geen contacten.</string>
   <string name="noContactsWithPhoneNumbers">Er zijn geen contacten met telefoonnummers</string>

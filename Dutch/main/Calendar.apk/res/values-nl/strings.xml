@@ -408,9 +408,7 @@
   <string name="search">Zoeken</string>
   <string name="search_calendar">"Datum;Solar Terms;Lunar;Almanac;Fortune;Agenda;Meeting;Herinnering;Vakantie;Vakantie;Verjaardag;2016;2017;Spring Festival;Nieuwjaarsdag;International Labour Day;Mid-Autumn Festival"</string>
   <string name="search_calendar_edit_event">Meeting;Herinnering;Agenda</string>
-  <string name="search_calendar_huangli"/>
   <string name="search_calendar_settings">Kalender;Agenda;Herinnering</string>
-  <string name="search_calendar_subscribe_group"/>
   <string name="select_date">Springen naar datum</string>
   <string name="select_synced_calendars_title">Agenda\'s om te synchroniseren</string>
   <string name="setting_about_calendar_version">Kalenderversie:</string>

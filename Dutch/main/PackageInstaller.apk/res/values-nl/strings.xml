@@ -228,7 +228,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="grant_dialog_button_more_info">Meer info</string>
   <string name="hdcp_checking_dialog_title">HDCP controle gedrag instellen</string>
   <string name="hdcp_checking_title">HDCP controle</string>
-  <string name="help_app_permissions"/>
   <string name="help_feedback_label">Hulp &amp; feedback</string>
   <string name="home">Home instellingen</string>
   <string name="ime_security_warning">Deze invoermethode kan mogelijk alle tekst die u typt, verzamelen, inclusief persoonlijke gegevens zoals wachtwoorden en creditcardnummers. Het komt van de app %1$s. Deze invoermethode gebruiken?</string>
@@ -332,7 +331,6 @@ Al uw vorige gebruikersgegevens worden opgeslagen."</string>
   <string name="no_apps">Geen apps</string>
   <string name="no_new_perms">Deze update vereist geen nieuwe toestemmingen.</string>
   <string name="no_permissions">Geen toestemmingen</string>
-  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM ontgrendeling</string>
   <string name="oem_unlock_enable_summary">Toestaan om bootloader te ontgrendelen</string>
   <string name="ok">Ok</string>

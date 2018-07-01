@@ -282,7 +282,6 @@
         <item>LTE / CDMA</item>
         <item>LTE / GSM / UMTS</item>
     </string-array>
-    <array name="config_support_tdscdma_roaming_on_networks" />
     <string-array name="clir_display_values">
         <item>Netwerkstandaard</item>
         <item>Nummer verbergen</item>

@@ -446,8 +446,6 @@ Sample Rate"</string>
   <string name="card_title_redialing">Nummerherhaling</string>
   <string name="card_title_unconditionalCF">Onvoorwaardelijk oproep doorschakelen is ingeschakeld</string>
   <string name="carrier_info">Providerinformatie</string>
-  <string name="carrier_settings"/>
-  <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">Providerinstellingen</string>
   <string name="category_personal">Privé</string>
   <string name="category_work">Werk</string>
@@ -519,9 +517,7 @@ Sample Rate"</string>
   <string name="cmcc_ut_data_enable_prompt">Kon geen verbinding maken door gebruik van het VoLTE netwerk. Schakel nu uw mobiele dataverbinding in.</string>
   <string name="command_error_fdn_failure">U dient eerst de PDN uit te schakelen</string>
   <string name="config_default_data_sim">Instellingen</string>
-  <string name="config_dialing_emergency_number_suffix"/>
   <string name="config_disable_cdma_activation_code">false</string>
-  <string name="config_world_mode"/>
   <string name="confirmPin2Label">Nieuwe PIN2 bevestigen</string>
   <string name="confirmPinLabel">Nieuwe PIN bevestigen</string>
   <string name="confirm_enable_oem_unlock_text">WAARSCHUWING: Apparaatbeveiligingsfuncties werken niet op dit apparaat terwijl deze instelling ingeschakeld is.</string>
@@ -563,6 +559,7 @@ Sample Rate"</string>
   <string name="daltonizer_mode_protanomaly">Protanomalie (rood-groen)</string>
   <string name="daltonizer_mode_tritanomaly">Tritanomalie (blauw-geel)</string>
   <string name="daltonizer_type_overridden">Overschreven door %1$s</string>
+  <string name="data_enable_summary">Dit apparaat toestaan om mobiele data te gebruiken</string>
   <string name="data_enabled">Mobiele data</string>
   <string name="data_plan">Mobiele data plannen</string>
   <string name="data_usage_uninstalled_apps">Verwijderde apps</string>
@@ -587,6 +584,7 @@ Sample Rate"</string>
   <string name="debug_view_attributes">Schakel de controle van de weergave-attributen in</string>
   <string name="default_notification_description">Standaard geluid (%1$s)</string>
   <string name="default_preference_summary">&lt;Niet ingesteld&gt;</string>
+  <string name="default_preference_summary_domain_address">&lt;Niet ingesteld&gt;</string>
   <string name="default_preference_summary_password">&lt;Niet ingesteld&gt;</string>
   <string name="default_preference_summary_username">&lt;Niet ingesteld&gt;</string>
   <string name="delete">Verwijderen</string>
@@ -628,7 +626,6 @@ Sample Rate"</string>
   <string name="dialog_network_priority_title">Prioriteitsnetwerk</string>
   <string name="dialog_report">Rapporteren</string>
   <string name="dialpad_0_letters">+</string>
-  <string name="dialpad_1_letters"/>
   <string name="dialpad_2_letters">ABC</string>
   <string name="dialpad_3_letters">DEF</string>
   <string name="dialpad_4_letters">GHI</string>
@@ -647,12 +644,10 @@ Sample Rate"</string>
   <string name="dialpad_mno">MNO</string>
   <string name="dialpad_nine">9</string>
   <string name="dialpad_one">1</string>
-  <string name="dialpad_pound_letters"/>
   <string name="dialpad_pound_number">\#</string>
   <string name="dialpad_pqrs">PQRS</string>
   <string name="dialpad_seven">7</string>
   <string name="dialpad_six">6</string>
-  <string name="dialpad_star_letters"/>
   <string name="dialpad_star_number">*</string>
   <string name="dialpad_three">3</string>
   <string name="dialpad_tuv">TUV</string>
@@ -1063,7 +1058,6 @@ Voorkeursnetwerk wordt gebruikt."</string>
   <string name="notification_voicemail_title">Nieuwe voicemail</string>
   <string name="notification_voicemail_title_count">Nieuwe voicemail (%d)</string>
   <string name="number">Nummer</string>
-  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM ontgrendeling</string>
   <string name="oem_unlock_enable_summary">Toestaan dat bootloader ontgrendeld kan worden</string>
   <string name="ok">Ok</string>
@@ -1481,7 +1475,6 @@ U hebt nog %d pogingen over."</string>
   <string name="sum_show_caller_id">Nummer weergegeven bij uitgaande oproepen</string>
   <string name="sum_voicemail_choose_provider">Service voor voicemail selecteren</string>
   <string name="switch_dds_to_sub_alert">Stel deze kaart in als uw standaard datakaart.</string>
-  <string name="system_visual_voicemail_client"/>
   <string name="t9_indexing_method_pinyin">Pinyin</string>
   <string name="t9_indexing_method_title">T9 invoer</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin</string>
