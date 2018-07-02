@@ -793,12 +793,10 @@ Laatst gelopen op %2$s"</string>
   <string name="bluetooth_preference_paired_dialog_internet_option">Internetverbinding</string>
   <string name="bluetooth_preference_paired_dialog_keyboard_option">Toetsenbord</string>
   <string name="bluetooth_preference_paired_dialog_name_label">Naam</string>
-  <string name="bluetooth_preference_paired_dialog_title">Gekoppeld apparaat</string>
   <string name="bluetooth_preference_scan_title">Scannen naar apparaten</string>
   <string name="bluetooth_profile_a2dp">Media-audio</string>
   <string name="bluetooth_profile_a2dp_high_quality">Gebruik audio van hoge kwaliteit: %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Gebruik audio van hoge kwaliteit</string>
-  <string name="bluetooth_profile_details">Profielinstellingen</string>
   <string name="bluetooth_profile_dun">Gebruikt voor toegang tot dial-up netwerken</string>
   <string name="bluetooth_profile_headset">Telefoonaudio</string>
   <string name="bluetooth_profile_hid">Invoerapparaat</string>
