@@ -101,7 +101,6 @@
   <string name="accessibility_drag_hint_message">Sleep items naar de bovenkant van het scherm</string>
   <string name="accessibility_enter_lock_wallpaper">Tik om muziek te openen</string>
   <string name="accessibility_ethernet_connected">Ethernet is verbonden.</string>
-  <string name="accessibility_ethernet_disconnected">Ethernet is niet verbonden.</string>
   <string name="accessibility_gps_acquiring">GPS verwerven.</string>
   <string name="accessibility_gps_enabled">GPS ingeschakeld.</string>
   <string name="accessibility_home">Startpagina</string>
@@ -119,7 +118,6 @@
   <string name="accessibility_no_data">Geen gegevens.</string>
   <string name="accessibility_no_phone">Geen telefoonsignaal.</string>
   <string name="accessibility_no_signal">Geen signaal.</string>
-  <string name="accessibility_no_sim">Geen SIM.</string>
   <string name="accessibility_no_sims">Geen SIM kaart.</string>
   <string name="accessibility_no_wifi">Wi-Fi verbinding verbroken.</string>
   <string name="accessibility_no_wimax">Geen WiMAX.</string>

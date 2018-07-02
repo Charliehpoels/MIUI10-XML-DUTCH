@@ -793,10 +793,12 @@ Laatst gelopen op %2$s"</string>
   <string name="bluetooth_preference_paired_dialog_internet_option">Internetverbinding</string>
   <string name="bluetooth_preference_paired_dialog_keyboard_option">Toetsenbord</string>
   <string name="bluetooth_preference_paired_dialog_name_label">Naam</string>
+  <string name="bluetooth_preference_paired_dialog_title">Gekoppeld apparaat</string>
   <string name="bluetooth_preference_scan_title">Scannen naar apparaten</string>
   <string name="bluetooth_profile_a2dp">Media-audio</string>
   <string name="bluetooth_profile_a2dp_high_quality">Gebruik audio van hoge kwaliteit: %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Gebruik audio van hoge kwaliteit</string>
+  <string name="bluetooth_profile_details">Profielinstellingen</string>
   <string name="bluetooth_profile_dun">Gebruikt voor toegang tot dial-up netwerken</string>
   <string name="bluetooth_profile_headset">Telefoonaudio</string>
   <string name="bluetooth_profile_hid">Invoerapparaat</string>
@@ -3238,7 +3240,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="phone_info_label">Apparaatinformatie</string>
   <string name="phone_language">Taal</string>
   <string name="physical_keyboard_title">Fysiek toetsenbord</string>
-  <string name="pick_up_gesture_wakeup_title">Opneem gebaar om te ontwaken</string>
   <string name="picture_color_mode">Beeldkleurmodus</string>
   <string name="picture_color_mode_desc">sRGB gebruiken</string>
   <string name="picture_in_picture_app_detail_summary">Toestaan dat deze app een Picture-in-Picture venster maakt terwijl de app is geopend of nadat je deze hebt verlaten (bijvoorbeeld om door te gaan met het bekijken van een video). Dit venster wordt weergegeven bovenop andere apps</string>
@@ -3261,7 +3262,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_apps">Apps</string>
   <string name="power_autorun_apps_empty">Geen autostart apps</string>
   <string name="power_autorun_empty">Geen apps geïnstalleerd</string>
-  <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">Camera</string>
   <string name="power_cell">Mobiele standby</string>
   <string name="power_center">Energiebeheer</string>
@@ -3271,7 +3271,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_discharge_remaining">%1$s resterend</string>
   <string name="power_discharging_duration">%1$s - ongeveer %2$s resterend</string>
   <string name="power_discharging_duration_short">%1$s - %2$s resterend</string>
-  <string name="power_flashlight">Flitser</string>
   <string name="power_hide_mode_summary">Bespaar batterij door het beperken van achtergrondprocessen van individuele apps, Wi-Fi, mobiele dataverbindingen en GPS gebruik</string>
   <string name="power_hide_mode_title">Batterijverbruik van apps beheren</string>
   <string name="power_idle">Telefoon inactief</string>
