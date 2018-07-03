@@ -3332,6 +3332,11 @@ Selecteer het OS van uw computer:"</string>
   <string name="preferred_application_warning_use_system">Gebruik %s</string>
   <string name="preferred_media_app_summary">Kies muziekspeler</string>
   <string name="preferred_network_offload_footer">Netwerknaam uitzending uitschakelen beschermt u tegen derden die toegang willen krijgen tot uw netwerkinformatie.</string>
+  <string name="preferred_network_offload_header">Netwerknaam uitzending uitschakelen</string>
+  <string name="preferred_network_offload_popup">Netwerknaam uitzending uitschakelen voorkomt automatische verbinding met verborgen netwerken.</string>
+  <string name="preferred_network_offload_title">Voorkeursnetwerk Offload</string>
+  <string name="preferred_network_type_summary">LTE (aanbevolen)</string>
+  <string name="preferred_network_type_title">Voorkeursnetwerktype</string>
   <string name="preferred_sms_settings">Deze app zal worden ingesteld als de standaard app voor het lezen van en maken van SMS berichten.</string>
   <string name="preferred_sms_title">Standaard berichtenapp</string>
   <string name="preferred_sms_warning_message">Gebruikt \"%1$s\" als standaard berichten app kan het mobiele dataverbruik verhogen of gevaar opleveren voor de veiligheid van uw privé gegevens en u kan RCS niet gebruiken</string>
@@ -3400,9 +3405,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="privacy_gallery">Foto\'s</string>
   <string name="privacy_header_text_less_than_half">Te klein. Sleep wat verder.</string>
   <string name="privacy_mms">Berichten</string>
-  <string name="privacy_mode_dialog_message">Berichten, notities, foto\'s en inkomende oproepen verbergen?</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
-  <string name="privacy_mode_enable_sum">Berichten, notities, foto\'s en inkomende oproepen verbergen</string>
   <string name="privacy_mode_enable_title">Gastmodus</string>
   <string name="privacy_notes">Notities</string>
   <string name="privacy_password">Privacy wachtwoordbeveiliging</string>
