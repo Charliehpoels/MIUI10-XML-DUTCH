@@ -168,6 +168,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="add_device_admin_msg">Deze apparaatbeheerderactiveren?</string>
   <string name="add_facerecoginition_text">Gezichtsgegevens toevoegen</string>
   <string name="add_fingerprint_cancel_button_text">Terug</string>
+  <string name="add_fingerprint_dirty_fingerprint">Make sure the surface of the screen is clean. Try recording your fingerprint again.</string>
   <string name="add_fingerprint_done_msg">Nu kunt u dit apparaat ontgrendelen met uw vingerafdruk.</string>
   <string name="add_fingerprint_done_title">Klaar!</string>
   <string name="add_fingerprint_edge_instruction_msg">Verplaats je vinger zodat de sensor de zijkanten van je vingerafdruk kan lezen.</string>
@@ -176,6 +177,7 @@ Opmerking: drie keer tikken voor vergroting werkt overal, behalve voor het toets
   <string name="add_fingerprint_finished_button_text">Klaar</string>
   <string name="add_fingerprint_instruction_msg">De vingerafdruksensor zit ingebouwd in de homeknop van uw apparaat.</string>
   <string name="add_fingerprint_instruction_title">Voeg uw vingerafdruk toe</string>
+  <string name="add_fingerprint_move_fast">Keep your finger on the screen a bit longer</string>
   <string name="add_fingerprint_name_suggest_text">Naam vingerafdruk</string>
   <string name="add_fingerprint_put_finger_edge_msg">Beweeg uw vinger iets en plaats het weer op de sensor om alle verschillende onderdelen toe te voegen van uw vingerafdruk.</string>
   <string name="add_fingerprint_put_finger_msg">Plaatst u uw vinger op de sensor en verwijder hem nadat u een trilling voelde.</string>
@@ -1802,6 +1804,7 @@ Neem voor meer informatie contacteer de beheerder van uw organisatie."</string>
   <string name="every_day">Dagelijks</string>
   <string name="experimental_category_title">Experimenteel</string>
   <string name="experimental_preference">(Experimenteel)</string>
+  <string name="extended_power_menu">Extended power menu</string>
   <string name="external_code_size_label">App USB opslag</string>
   <string name="external_data_size_label">Gegevens USB opslag</string>
   <string name="external_source_switch_title">Toestaan van deze bron</string>
@@ -2459,6 +2462,7 @@ U kunt een nieuwe schermvergrendeling instellen voor zowel uw apparaat als uw we
   <string name="lockpassword_choose_your_pin_header">Stel uw PIN in</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"PIN instellen
  voor tweede ruimte"</string>
+  <string name="lockpassword_choose_your_pin_title">Enter 4-16 digits</string>
   <string name="lockpassword_confirm_for_second_user">Bevestig uw wachtwoord voor tweede ruimte</string>
   <string name="lockpassword_confirm_passwords_dont_match">Wachtwoorden komen niet overeen</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN codes komen niet overeen</string>
@@ -3405,7 +3409,9 @@ Selecteer het OS van uw computer:"</string>
   <string name="privacy_gallery">Foto\'s</string>
   <string name="privacy_header_text_less_than_half">Te klein. Sleep wat verder.</string>
   <string name="privacy_mms">Berichten</string>
+  <string name="privacy_mode_dialog_message">Berichten, notities, foto\'s en inkomende oproepen verbergen?</string>
   <string name="privacy_mode_dialog_title">Gastmodus</string>
+  <string name="privacy_mode_enable_sum">Berichten, notities, foto\'s en inkomende oproepen verbergen</string>
   <string name="privacy_mode_enable_title">Gastmodus</string>
   <string name="privacy_notes">Notities</string>
   <string name="privacy_password">Privacy wachtwoordbeveiliging</string>
@@ -4300,7 +4306,7 @@ PIN code mogelijk onjuist.</string>
   <string name="sim_lock_settings_summary_on">Vergrendeld</string>
   <string name="sim_lock_settings_title">SIM kaart vergrendeling</string>
   <string name="sim_management_title">Mobiele netwerken</string>
-  <string name="sim_management_title_cr_kolbi">SIM kaart &amp; mobiele netwerken</string>
+  <string name="sim_management_title_singlesim">SIM card &amp; mobile networks</string>
   <string name="sim_multi_sims_summary">SIM kiezen die u voor mobiele data verkiest.</string>
   <string name="sim_multi_sims_title">Meerdere SIMs gevonden</string>
   <string name="sim_name_hint">SIM naam invoeren</string>
@@ -5140,20 +5146,16 @@ Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="user_need_lock_message">Voordat u een beperkt profiel kunt maken, moet u een schermvergrendeling instellen om uw apps en persoonlijke gegevens te beschermen.</string>
   <string name="user_new_profile_name">Nieuw profiel</string>
   <string name="user_new_user_name">Nieuwe gebruiker</string>
-  <string name="user_nickname">Roepnaam</string>
   <string name="user_picture_title">Foto ID</string>
   <string name="user_profile_confirm_remove_message">Alle apps en data zullen verwijderd worden.</string>
   <string name="user_profile_confirm_remove_title">Dit profiel verwijderen?</string>
-  <string name="user_remove_user">Gebruiker verwijderen</string>
   <string name="user_remove_user_menu">%1$s verwijderen van dit apparaat</string>
   <string name="user_rename">NAAM WIJZIGEN</string>
   <string name="user_restrictions_controlled_by">Beheerd door %1$s</string>
-  <string name="user_restrictions_title">App- en inhoudtoegang</string>
   <string name="user_set_lock_button">Vergrendeling instellen</string>
   <string name="user_settings_forbidden">"Kan administratorinstellingen niet wijzigen in de huidige ruimte. Ga terug naar de eerste ruimte."</string>
   <string name="user_settings_title">Gebruikers</string>
   <string name="user_setup_button_setup_later">Later instellen</string>
-  <string name="user_setup_button_setup_now">Nu instellen</string>
   <string name="user_setup_dialog_message">Zorg ervoor dat de persoon beschikbaar is om het apparaat over te nemen om zijn/haar ruimte in te stellen</string>
   <string name="user_setup_dialog_title">Gebruiker nu instellen?</string>
   <string name="user_setup_profile_dialog_message">Profiel nu instellen?</string>
@@ -5165,25 +5167,19 @@ Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="users_and_accounts_summary">Current user: %1$s</string>
   <string name="users_summary">Signed in as %1$s</string>
   <string name="v7_preference_off">Uit</string>
-  <string name="v7_preference_on">Aan</string>
-  <string name="verify_apps_over_usb_summary">Apps die zijn geïnstalleerd via ADB/ADT, controleren op schadelijk gedrag.</string>
   <string name="verify_apps_over_usb_title">Apps verifiëren via USB</string>
   <string name="version_text">versie %1$s</string>
   <string name="vibrate_category_title">Trillen</string>
-  <string name="vibrate_in_normal_title">Trillen bij bellen</string>
   <string name="vibrate_in_silent_title">Trillen in stille modus</string>
   <string name="vibrate_input_devices">Trilstand gebruiken</string>
   <string name="vibrate_input_devices_summary">Trilstand overschakelen naar gamecontroller wanneer deze is aangesloten.</string>
   <string name="vibrate_on_touch_title">Trillen bij aanraken</string>
-  <string name="vibrate_when_ringing_title">Ook trillen bij oproepen</string>
   <string name="vip_list">Inkomende oproepen toestaan</string>
   <string name="virtual_keyboard_category">Virtueel toetsenbord</string>
   <string name="virtual_sim_category_title">Mi Roaming</string>
-  <string name="virtual_sim_description">Betrouwbare internationale roamingservice</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
   <string name="virtual_sim_global_description">Verbinden met datanetwerk zonder SIM kaart</string>
   <string name="virtual_sim_global_title">Mobiele dataservice</string>
-  <string name="virtual_sim_title">Roaming datanetwerk</string>
   <string name="virus_scan">Virusscanner</string>
   <string name="virus_scan_app_continue">Scan voortzetten</string>
   <string name="virus_scan_app_finish">Scan gereed</string>
@@ -5196,13 +5192,11 @@ Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="virus_scan_app_safe_scanning">Scannen…</string>
   <string name="virus_scan_app_scan_finish">Scan gereed</string>
   <string name="virus_scan_app_scanning">Scannen…</string>
-  <string name="virus_scan_app_stop_scan">Scan stoppen</string>
   <string name="virus_scan_app_uninstall">Verwijderen (%d)</string>
   <string name="virus_scan_app_waiting">Wachten…</string>
   <string name="virus_scanner_auto_update">Automatisch updaten</string>
   <string name="virus_scanner_date_formater">d MMM. yyyy</string>
   <string name="virus_scanner_lib_already_latest">Virusdatabase is helemaal up-to-date</string>
-  <string name="virus_scanner_lib_update_failed">Kon niet updaten</string>
   <string name="virus_scanner_lib_updating">Definities bijwerken…</string>
   <string name="virus_scanner_manual_update">Bijgewerkt op %s</string>
   <string name="virus_scanner_provider">Mogelijk gemaakt door %s</string>
@@ -5232,19 +5226,15 @@ Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="voice_service_preference_section_title">Spraakinvoerdiensten</string>
   <string name="volte_provisioned_switch_string">VoLTE Provisioned</string>
   <string name="volume_alarm_description">Wekker</string>
-  <string name="volume_alarm_mute">Wekkers dempen</string>
   <string name="volume_bluetooth_description">Bluetoothvolume</string>
   <string name="volume_category_title">Volume</string>
   <string name="volume_hifi_description">HiFi instellingen</string>
-  <string name="volume_media_description">Muziek, video, games en andere media</string>
   <string name="volume_media_mute">Muziek en andere media dempen</string>
   <string name="volume_notification_description">Meldingen</string>
   <string name="volume_notification_mute">Meldingen dempen</string>
-  <string name="volume_restore">Standaardwaarden herstellen</string>
   <string name="volume_restore_alert">Alle volumes terugzetten naar de standaardinstellingen?</string>
   <string name="volume_ring_description">Beltoon en meldingen</string>
   <string name="volume_ring_mute">Beltoon en meldingen dempen</string>
-  <string name="volume_system_description">Camera, vergrendelscherm, overige systeemmeldingen</string>
   <string name="volume_voice_description">Gespreksvolume</string>
   <string name="vpn_always_on_invalid_reason_dns">DNS serveradressen moeten numeriek zijn voor altijd op VPN</string>
   <string name="vpn_always_on_invalid_reason_no_dns">Een DNS server moet worden gespecificeerd voor altijd op VPN</string>
@@ -5984,4 +5974,5 @@ als u uw publieke netwerk deelt."</string>
   <string name="zone_auto_summaryOn">Netwerktijdzone gebruiken</string>
   <string name="zone_list_menu_sort_alphabetically">Alfabetisch sorteren</string>
   <string name="zone_list_menu_sort_by_timezone">Sorteren op tijdzone</string>
+  <string name="sim_management_title_cr_kolbi">SIM kaart &amp; mobiele netwerken</string>
 </resources>

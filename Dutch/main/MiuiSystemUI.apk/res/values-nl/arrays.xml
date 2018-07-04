@@ -119,6 +119,11 @@
         <item>OpenGL (Standaard)</item>
         <item>OpenGL (Skia)</item>
     </string-array>
+    <string-array name="device_support_new_pickup_by_xiaomi">
+        <item>jason</item>
+        <item>nitrogen</item>
+        <item>platina</item>
+    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Geen</item>
         <item>Logcat</item>

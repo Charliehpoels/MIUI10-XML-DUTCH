@@ -796,27 +796,4 @@ verzorgd door Ultimate Inc.</string>
 
 Tik op %s om deze download te starten de volgende keer dat u bent verbonden met een Wi-Fi netwerk."</string>
   <string name="wifi_required_title">Download te groot voor mobiel internet</string>
-  <string name="audio_recognition_setting_summary">Find album covers and lyrics for local songs automatically</string>
-  <string name="audio_recognition_setting_title">Find album covers and lyrics</string>
-  <string name="go_to_settings">Go to settings</string>
-  <string name="intelligent_recognize">Album covers and lyrics</string>
-  <string name="modify_info_disable_note">If you want to edit info manually, turn off \"Find album covers and lyrics\" first.</string>
-  <string name="optimize_all_until_optimized">Applying new cover and lyrics…</string>
-  <string name="optimize_all_until_scanned">Wait until Music finishes checking storage for songs.</string>
-  <string name="recognition_reverted_message">Deleted album cover and lyrics successfully. You can do the same for all songs in the Settings.</string>
-  <string name="recognition_reverted_title">Album covers and lyrics</string>
-  <string name="recognize_call">Optimize</string>
-  <string name="recognize_call_summary">"Mi Music couldn't find album cover and lyrics for this song."</string>
-  <string name="recognize_calling">Applying changes…</string>
-  <string name="recognize_calling_fail">"Couldn't find info. You can try checking again later."</string>
-  <string name="recognize_calling_network_error">"Couldn't connect to the network. Wait a minute or two and try again."</string>
-  <string name="recognize_revert">Discard changes</string>
-  <string name="recognize_revert_summary">Mi Music found album cover and lyrics for this song.</string>
-  <string name="recognize_reverting">Discarding changes…</string>
-  <string name="recognize_switch_off_alert_not_now">Not now</string>
-  <string name="recognize_switch_off_alert_revert">Delete</string>
-  <string name="recognize_switch_off_alert_title">Album covers and lyrics</string>
-  <string name="recognized_alert_message">Mi Music found album cover and lyrics for this song. Tap \"…\" to edit info.</string>
-  <string name="recognized_alert_title">Found album cover and lyrics</string>
-  <string name="start_shuffle">Shuffling…</string>
 </resources>

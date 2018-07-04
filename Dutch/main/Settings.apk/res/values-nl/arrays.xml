@@ -1038,6 +1038,14 @@
         <item>OpenGL (Standaard)</item>
         <item>OpenGL (Skia)</item>
     </string-array>
+    <string-array name="defalut_browser_package">
+        <item>mx_telcel:com.android.chrome</item>
+    </string-array>
+    <string-array name="device_support_new_pickup_by_xiaomi">
+        <item>jason</item>
+        <item>nitrogen</item>
+        <item>platina</item>
+    </string-array>
 	<string-array name="dream_timeout_entries">
         <item>Nooit</item>
         <item>15 seconden</item>
@@ -1732,7 +1740,7 @@ Note: Alleen voor Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="special_locale_names_global">
         <item>简体中文</item>
-        <item>繁體中文 (台湾)</item>
+        <item>繁體中文 (台灣)</item>
         <item>繁體中文 (香港)</item>
         <item>Español (América)</item>
         <item>Português (Brasil)</item>

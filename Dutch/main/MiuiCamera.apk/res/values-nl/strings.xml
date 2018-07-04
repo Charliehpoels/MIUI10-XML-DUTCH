@@ -318,6 +318,16 @@ brengt de mensen naar voren."</string>
   <string name="pref_camera_histogram_entry_disable">Uitschakelen</string>
   <string name="pref_camera_histogram_entry_enable">Inschakelen</string>
   <string name="pref_camera_iso_entry_auto">Auto</string>
+  <string name="pref_camera_iso_entry_iso1000">1000</string>
+  <string name="pref_camera_iso_entry_iso125">125</string>
+  <string name="pref_camera_iso_entry_iso1250">1250</string>
+  <string name="pref_camera_iso_entry_iso160">160</string>
+  <string name="pref_camera_iso_entry_iso2000">2000</string>
+  <string name="pref_camera_iso_entry_iso250">250</string>
+  <string name="pref_camera_iso_entry_iso2500">2500</string>
+  <string name="pref_camera_iso_entry_iso320">320</string>
+  <string name="pref_camera_iso_entry_iso500">500</string>
+  <string name="pref_camera_iso_entry_iso640">640</string>
   <string name="pref_camera_iso_title">ISO selecteren</string>
   <string name="pref_camera_jpegquality_entry_high">Hoog</string>
   <string name="pref_camera_jpegquality_entry_low">Laag</string>
