@@ -1548,10 +1548,8 @@ Deze activiteit verkort de levensduur van de batterij."</string>
   <string name="power_optimize_battery_save_more">Meer</string>
   <string name="power_optimize_brightness">Schermhelderheid</string>
   <string name="power_optimize_btn_text_fixed">Geoptimaliseerd</string>
-  <string name="power_optimize_catagory_fixed_title">Geoptimaliseerd</string>
   <string name="power_optimize_close_app">Apps sluiten die buitengewoon veel batterij gebruiken</string>
   <string name="power_optimize_disable_app_autostart">Voorkomen dat apps automatisch openen</string>
-  <string name="power_optimize_disable_gps">GPS uitschakelen</string>
   <string name="power_optimize_disable_start_other_app">Voorkomen dat apps andere apps openen</string>
   <string name="power_optimize_loading">Laden</string>
   <string name="power_optimize_open_hide_mode">Batterijbespaarder inschakelen</string>
