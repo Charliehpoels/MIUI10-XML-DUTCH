@@ -3262,6 +3262,8 @@ Selecteer het OS van uw computer:"</string>
   <string name="please_type_passphrase">Wachtwoord</string>
   <string name="pointer_location">Cursorlocatie</string>
   <string name="pointer_location_summary">Schermoverlay met huidige aanraakgegevens</string>
+  <string name="pointer_settings_category">Muis/trackpad</string>
+  <string name="pointer_speed">Snelheid van aanwijzer</string>
   <string name="popup_window">Zwevende meldingen beperken</string>
   <string name="power_apps">Apps</string>
   <string name="power_autorun_apps_empty">Geen autostart apps</string>
@@ -3271,6 +3273,9 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_cell">Mobiele standby</string>
   <string name="power_center">Energiebeheer</string>
   <string name="power_charge_remaining">Volledig opgeladen over %1$s</string>
+  <string name="power_charging_duration">%1$s - %2$s tot volledig opgeladen</string>
+  <string name="power_checker">Power controle</string>
+  <string name="power_discharge_remaining">%1$s resterend</string>
   <string name="power_discharging_duration">%1$s - ongeveer %2$s resterend</string>
   <string name="power_discharging_duration_short">%1$s - %2$s resterend</string>
   <string name="power_flashlight">Flitser</string>
@@ -3284,6 +3289,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="power_optimize">Batterijbespaarder</string>
   <string name="power_overcounted">Overrekend</string>
   <string name="power_phone">Gespreksoproepen</string>
+  <string name="power_remaining_charging_duration_only">%1$s resterend links tot volledig opgeladen</string>
   <string name="power_remaining_duration_only">Ongeveer %1$s resterend</string>
   <string name="power_remaining_duration_only_short">%1$s resterend</string>
   <string name="power_screen">Scherm</string>
@@ -4865,23 +4871,17 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="turn_off_common_password_confirm_msg">Schermvergrendeling zal ook uitgeschakeld worden.</string>
   <string name="turn_off_keyguard_password_alert_title">Uitschakelen</string>
   <string name="turn_off_keyguard_password_confirm_msg">Sommige beveiligingsfuncties zullen niet werken zonder uw wachtwoord.</string>
-  <string name="turn_off_keyguard_password_wait_dialog">Wachtwoord verwijderen…</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">U zal niet in staat zijn om het apparaat te ontgrendelen met uw vingerafdruk nadat u het wachtwoord heeft uitgeschakeld.</string>
   <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Nadat u uw wachtwoord voor het vergrendelscherm hebt uitgeschakeld, worden geregistreerde vingerafdrukken verwijderd. U kunt het apparaat niet ontgrendelen met uw vingerafdruk.</string>
   <string name="turn_off_security_lock">Vergrendeling uitschakelen</string>
   <string name="turn_on_keyguard_password">Wachtwoord op vergrendelscherm inschakelen</string>
   <string name="turn_on_keyguard_password_alert">Onthoud het wachtwoord. Als je het vergeet zal je het niet kunnen herstellen</string>
   <string name="turn_on_keyguard_password_alert_choose">Onthoud het wachtwoord. Als je het vergeet zal je alle gegevens op je apparaat moeten wissen en een nieuwe moeten instellen.</string>
-  <string name="turn_on_keyguard_password_alert_foget_cacel">Niet nu</string>
   <string name="turn_on_keyguard_password_alert_foget_ok">Begrepen</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">Begrepen (%ds)</string>
   <string name="turn_on_keyguard_password_alert_forget_content">Onthoud het wachtwoord van uw vergrendelscherm. Als je het vergeet zal je alle gegevens op je apparaat moeten wissen, inclusief foto\'s en contacten, en een nieuw wachtwoord moeten instellen.</string>
   <string name="turn_on_keyguard_password_alert_forget_title">Onthoud je wachtwoord</string>
-  <string name="turn_on_security_lock">Kies schermvergrendeling</string>
   <string name="turn_on_torch">Zaklamp inschakelen</string>
-  <string name="turn_update_keyguard_password_wait_dialog">Wachtwoord wijzigen…</string>
   <string name="twohours">1 uur</string>
-  <string name="under_keyguard">Scherm uit</string>
   <string name="unimportant">Onbelangrijk</string>
   <string name="uninstall_all_users_text">Verwijderen voor alle gebruikers</string>
   <string name="uninstall_device_admin">App verwijderen</string>
@@ -4889,12 +4889,10 @@ Een benadering van Google voor de sync. van gegevens, zodat u altijd en overal t
   <string name="uninstall_dlg_title">Nu verwijderen?</string>
   <string name="uninstall_protected_dlg_msg">Het deïnstalleren van systeemapps kan ervoor zorgen dat bepaalde componenten van MIUI niet goed meer werken. Toch deïnstalleren?</string>
   <string name="uninstall_protected_dlg_title">Systeemapps deïnstalleren</string>
-  <string name="uninstall_text">Verwijderen</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Bijhorende gedupliceerde apps zullen worden verwijderd, inclusief appgegevens.</string>
   <string name="uninstall_xspace_app_dlg_msg">Het verwijderen van een gedupliceerde app zal alle appgegevens wissen.</string>
   <string name="uninstall_xspace_app_dlg_title">Gedupliceerde app verwijderen?</string>
   <string name="unknown">Onbekend</string>
-  <string name="unknown_app">Onbekende app</string>
   <string name="unlock_change_lock_password_title">Ontgrendelwachtwoord wijzigen</string>
   <string name="unlock_change_lock_pattern_title">Ontgrendelpatroon wijzigen</string>
   <string name="unlock_change_lock_pin_title">PIN wijzigen</string>
@@ -4914,7 +4912,6 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
 
 Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw profiel niet ontgrendelen, aankopen autoriseren of zich aanmelden bij apps."</string>
   <string name="unlock_disable_frp_warning_content_pattern_profile">De profielbeveiligingsfuncties werken niet zonder uw patroon.</string>
-  <string name="unlock_disable_frp_warning_content_pin">Apparaatveiligheidsfucnties zullen niet werken zonder uw PIN.</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Apparaatveiligheidsfucnties zullen niet werken zonder uw PIN.
 
 Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u zal uw telefoon niet kunnen ontgrendelen, betalingen kunnen uitvoeren of inloggen op apps met vingerafdrukken."</string>
@@ -4932,10 +4929,8 @@ Uw opgeslagen vingerafdrukken zullen ook van dit apparaat worden verwijderd en u
 Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw profiel niet ontgrendelen, aankopen autoriseren of u aanmelden bij apps."</string>
   <string name="unlock_disable_frp_warning_content_unknown_profile">De beveiligingsfuncties voor het profiel werken niet zonder uw schermvergrendeling.</string>
   <string name="unlock_disable_frp_warning_ok">Ja, verwijderen</string>
-  <string name="unlock_disable_frp_warning_title">Apparaatbescherming verwijderen?</string>
   <string name="unlock_disable_frp_warning_title_profile">Profielbescherming verwijderen?</string>
   <string name="unlock_disable_lock_pin_summary">PIN uitschakelen</string>
-  <string name="unlock_disable_lock_title">Schermvergrendeling uitschakelen</string>
   <string name="unlock_set_do_later_title">Niet nu</string>
   <string name="unlock_set_enter_system">Schermvergrendeling overslaan</string>
   <string name="unlock_set_enter_system_summary">Ga direct naar het startscherm na het ontwaken</string>
@@ -4960,20 +4955,16 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="unlock_set_unlock_password_none">Geen</string>
   <string name="unlock_set_unlock_password_summary">Voer tenminste 4 letters of cijfers in om apparaat te ontgrendelen</string>
   <string name="unlock_set_unlock_password_title">Wachtwoord</string>
-  <string name="unlock_set_unlock_pattern_summary">Teken een simpel patroon om apparaat te ontgrendelen</string>
   <string name="unlock_set_unlock_pattern_title">Patroon</string>
   <string name="unlock_set_unlock_pin_summary">Voer 4 cijfers in om apparaat te ontgrendelen</string>
   <string name="unlock_set_unlock_pin_title">PIN code</string>
   <string name="unlock_set_unlock_summary">Schermwachtwoord instellen voor wachtwoordbeveiliging</string>
-  <string name="unlock_setup_wizard_fingerprint_details">Als u schermvergrendeling eenmaal hebt ingesteld, kunt u ook uw vingerafdruk instellen in instellingen &gt; Veiligheid.</string>
   <string name="unmount_inform_text">USB opslag zal losgekoppeld worden.</string>
   <string name="unrestrict_max_aspect_ratio_title">Deze apps zijn geoptimaliseerd voor fullscreenmodus</string>
   <string name="unrestricted_app_summary">Onbeperkte toegang tot mobiele data toestaan als databespaarder is ingeschakeld</string>
-  <string name="unrestricted_app_title">Onbeperkt dataverbruik</string>
   <string name="unrestricted_data_saver">Onbeperkt toegang tot data</string>
   <string name="untitled_apn">Naamloos</string>
   <string name="update_new_version">Update is beschibaar</string>
-  <string name="update_progress_for_updates">Updaten （%s）</string>
   <string name="upload_debug_log_summary">Gebruikstatistieken die ons helpen problemen op te sporen en op te lossen, bevatten mogelijk uw persoonlijke gegevens</string>
   <string name="upload_debug_log_title">Diagnostische data automatisch verzenden</string>
   <string name="usage">Verbruik</string>
