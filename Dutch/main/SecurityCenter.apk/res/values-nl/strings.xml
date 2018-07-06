@@ -2385,4 +2385,11 @@ Resterende data bevat gegevens die is overgenomen van de vorige maand."</string>
   <string name="xunyou_pay_webview">Xunyou diensten</string>
   <string name="xunyou_server_expired">De sessie is verlopen.</string>
   <string name="zhifubao_not_found">您的应用版本过低或者未安装</string>
+  <string name="fod_authentication_shift_button">Annuleren</string>
+  <string name="fod_button_finger">Gebruik vingerafdruk</string>
+  <string name="fod_button_password">Wachtwoord invoeren</string>
+  <string name="fod_finger_notice_title">Plaats uw vinger op het scherm</string>
+  <string name="fod_finger_windows_tips">Verifiëer uw vingerafdruk</string>
+  <string name="fod_tips_split_screen_more_than_half">Wachtwoord invoeren</string>
+  <string name="yuan">CNY</string>
 </resources>

@@ -138,7 +138,7 @@ op uw Mi account om je Mi Cloud te heractiveren</string>
   <string name="micloud_find_device_guide_alert_negtive">Nee bedankt</string>
   <string name="micloud_find_device_guide_alert_negtive_activate">Nee bedankt</string>
   <string name="micloud_find_device_guide_alert_positive">OK</string>
-  <string name="micloud_find_device_guide_alert_title">Onthoud je Mi Account ID en wachtwoord</string>
+  <string name="micloud_find_device_guide_alert_title">Onthoud je wachtwoord</string>
   <string name="micloud_find_device_guide_button">Apparaat vinden inschakelen</string>
   <string name="micloud_find_device_guide_fail_reopen">Apparaat vinden inschakelen in Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Controleer uw netwerkverbinding en probeer opnieuw.</string>
@@ -372,4 +372,8 @@ Deze functie codeert en verzendt de ID van uw apparaat naar de Mi servers."</str
   <string name="wipe_secret_photo_dialog_title">Verborgen foto\'s zijn niet gesynchroniseerd</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_subtitle">Alle belangrijke items op een plek</string>
+  <string name="member_menu_vipname_free">Gratis</string>
+  <string name="member_menu_vipname_mega">Mega</string>
+  <string name="member_menu_vipname_premium">Premium</string>
+  <string name="member_menu_vipname_ultra">Ultra</string>
 </resources>
