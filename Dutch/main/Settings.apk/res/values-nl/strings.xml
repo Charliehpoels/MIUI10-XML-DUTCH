@@ -3179,6 +3179,7 @@ Selecteer het OS van uw computer:"</string>
   <string name="page_layout_7">Games</string>
   <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">Thema\'s</string>
+  <string name="page_layout_confirm_message">Uw apparaat moet opnieuw worden opgestart om deze wijzigingen toe te passen. Dit duurt ongeveer 1 minuut.</string>
   <string name="page_layout_confirm_title">Wijzig weergave instellingen</string>
   <string name="page_layout_godzilla_title">XXL</string>
   <string name="page_layout_huge_title">Extra groot</string>
