@@ -5040,7 +5040,6 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="usb_ptp_title">Camera (PTP)</string>
   <string name="usb_summary_MIDI">Apparaat gebruiken als MIDI</string>
   <string name="usb_summary_charging_only">Apparaat aan het opladen</string>
-  <string name="usb_summary_file_transfers">Bestanden overzetten</string>
   <string name="usb_summary_photo_transfers">Foto\'s overzeten (PTP)</string>
   <string name="usb_summary_power_only">Stroomvoorziening</string>
   <string name="usb_tethering_active_subtext">Getetherd</string>
@@ -5049,15 +5048,12 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="usb_tethering_errored_subtext">Fout met USB tethering</string>
   <string name="usb_tethering_storage_active_subtext">Kan niet tetheren wanneer USB-opslag wordt gebruikt</string>
   <string name="usb_tethering_turnon_subtext">Verbinden om in te schakelen</string>
-  <string name="usb_tethering_unavailable_subtext">USB niet verbonden</string>
   <string name="usb_title">USB</string>
   <string name="usb_use">USB gebruiken voor</string>
   <string name="usb_use_MIDI">MIDI</string>
-  <string name="usb_use_MIDI_desc">Dit apparaat gebruiken als MIDI</string>
   <string name="usb_use_charging_only">Alleen opladen</string>
   <string name="usb_use_charging_only_desc">Alleen opladen</string>
   <string name="usb_use_file_transfers">Bestanden verplaatsen (MTP)</string>
-  <string name="usb_use_file_transfers_desc">Bestanden overzetten naar een ander apparaat</string>
   <string name="usb_use_photo_transfers">Foto\'s verplaatsen (PTP)</string>
   <string name="usb_use_photo_transfers_desc">Foto\'s of bestanden overzeten als MTP niet ondersteund wordt (PTP)</string>
   <string name="usb_use_power_only">Van stroom voorzien</string>
@@ -5066,30 +5062,18 @@ Uw opgeslagen vingerafdrukken worden ook verwijderd van dit profiel en u kan uw 
   <string name="use_location_title">Locatie en Google Zoeken</string>
   <string name="use_open_wifi_automatically_summary">Automatisch verbinding maken met openbare netwerken van hoge kwaliteit</string>
   <string name="use_open_wifi_automatically_title">Verbinden met open netwerken</string>
-  <string name="use_personalized_ad_service">Gepersonaliseerde advertentie aanbeveling</string>
   <string name="use_personalized_ad_service_summary">Wanneer de aanbevelingsfunctie is uitgeschakeld, ziet u nog steeds hetzelfde aantal advertenties als wanneer deze is ingeschakeld, maar niet op basis van uw gedragsgegevens of uw persoonlijke gegevens.</string>
   <string name="use_privacy_password_immediate">Gebruiken</string>
   <string name="use_system_language_to_select_input_method_subtypes">Systeemtaal gebruiken</string>
   <string name="use_this_wlan">Verbonden blijven</string>
   <string name="user_account_title">Account voor inhoud</string>
-  <string name="user_add_max_count">Je kan tot %1$d gebruikers toevoegen</string>
   <string name="user_add_on_lockscreen_menu">Gebruikers toevoegen</string>
   <string name="user_add_profile_item_summary">U kunt de toegang tot apps en content van uw account beperken</string>
   <string name="user_add_profile_item_title">Beperkt profiel</string>
   <string name="user_add_user_item_summary">Gebruikers hebben hun eigen apps en inhoud</string>
   <string name="user_add_user_item_title">Gebruiker</string>
-  <string name="user_add_user_menu">Gebruiker toevoegen</string>
-  <string name="user_add_user_message_long">"U kunt dit apparaat met andere mensen delen door extra gebruikers toe te voegen. Elke gebruiker heeft een eigen ruimte die kan worden aangepast met eigen apps, achtergrond enzovoort. Gebruikers kunnen ook systeeminstellingen aanpassen, zoals Wi-Fi, die dan effect zullen hebben op alle gebruikers.
-
-Wanneer u een nieuwe gebruiker toevoegt moet deze persoon een setup-procedure volgen.
-
-Elke gebruiker kan aangepaste apptoestemmingen accepteren voor alle andere gebruikers"</string>
-  <string name="user_add_user_message_short">"Als je een nieuwe gebruiker toevoegt moet die persoon zijn eigen ruimte instellen.
-
-Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="user_add_user_or_profile_menu">Gebruiker of profiel toevoegen</string>
   <string name="user_add_user_title">Nieuwe gebruiker toevoegen?</string>
-  <string name="user_add_user_type_title">Toevoegen</string>
   <string name="user_adding_new_user">Nieuwe gebruiker toevoegen…</string>
   <string name="user_admin">Admin</string>
   <string name="user_cannot_add_accounts_message">Beperkte profielen kunnen geen accounts toevoegen</string>
@@ -5118,21 +5102,17 @@ Elke gebruiker kan apps voor alle andere gebruikers updaten."</string>
   <string name="user_dict_settings_add_word_option_name">Woord:</string>
   <string name="user_dict_settings_all_languages">Voor alle talen</string>
   <string name="user_dict_settings_context_menu_delete_title">Verwijderen</string>
-  <string name="user_dict_settings_context_menu_edit_title">Bewerken</string>
   <string name="user_dict_settings_edit_dialog_title">Woord bewerken</string>
   <string name="user_dict_settings_empty_text">"Je hebt geen woordenboek
   Druk op de knop 'Toevoegen' (+) om woorden toe te voegen."</string>
   <string name="user_dict_settings_more_languages">Meer talen…</string>
-  <string name="user_dict_settings_title">Persoonlijk woordenboek</string>
   <string name="user_enable_calling">Telefoonoproepen inschakelen</string>
   <string name="user_enable_calling_and_sms_confirm_message">Oproep- en SMS geschiedenis zullen gedeeld worden met deze gebruiker.</string>
   <string name="user_enable_calling_and_sms_confirm_title">Oproepen &amp; SMS inschakelen?</string>
   <string name="user_enable_calling_confirm_message">Oproepgeschiedenis zal gedeeld worden met deze gebruiker.</string>
-  <string name="user_enable_calling_confirm_title">Telefoonoproepen inschakelen?</string>
   <string name="user_enable_calling_sms">Telefoonoproepen &amp; SMS inschakelen</string>
   <string name="user_exit_guest_confirm_message">Alle apps en data van de sessie zullen verwijderd worden.</string>
   <string name="user_exit_guest_confirm_title">Gast verwijderen?</string>
-  <string name="user_exit_guest_dialog_remove">Verwijderen</string>
   <string name="user_exit_guest_title">Gast verwijderen</string>
   <string name="user_experience_program">Gebruikerservaringsprogramma</string>
   <string name="user_experience_program_summary">Help ons onze producten en diensten te verbeteren door uw gebruiksstatistieken met ons te delen</string>
