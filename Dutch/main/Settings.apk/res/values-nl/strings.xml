@@ -3385,17 +3385,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="privacy_authorize_cloud_msg">Om de veiligheid van uw account te garanderen, logt u in op i.mi.com als u autorisatie voor Mi Cloud-services (inclusief synchronisatie en back-ups) wilt intrekken.</string>
   <string name="privacy_authorize_dialog_agree">Akkoord</string>
   <string name="privacy_authorize_dialog_exit">Afsluiten</string>
-  <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Om de basisfuncties van de service te gebruiken, moet u ermee instemmen dat Xiaomi uw persoonlijke gegevens verzamelt, verwerkt en gebruikt. Raadpleeg ons Privacybeleid voor informatie over hoe we persoonlijke gegevens verzamelen en verwerken. "Akkoord" betekent dat u onze &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacybeleid &amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Gebruikersovereenkomst &amp;lt;/a&amp;gt;.&amp;#8203;"&lt;/Data&gt;</string>
-  <string name="privacy_authorize_network_error">Maak verbinding met het netwerk en probeer opnieuw.</string>
-  <string name="privacy_authorize_privacy_policy">Privacybeleid</string>
-  <string name="privacy_authorize_revoke">Intrekken</string>
-  <string name="privacy_authorize_revoke_dialog_msg">Nadat je autorisatie intrekt zal de app stoppen met gegevens verzamelen, en alle gerelateerde gegevens worden verwijderd van de servers. Dit kan de app onbruikbaar maken. Toch de autorisatie intrekken?</string>
-  <string name="privacy_authorize_revoke_dialog_title">Autorisatie intrekken</string>
-  <string name="privacy_authorize_revoke_failed">Kon autorisatie niet intrekken</string>
-  <string name="privacy_authorize_revoke_success">Autorisatie ingetrokken</string>
-  <string name="privacy_authorize_revoke_time">Intrekken (%1$ds)</string>
-  <string name="privacy_authorize_revoke_title">Autorisatie &amp; intrekken</string>
-  <string name="privacy_authorize_revoking">Toestemming intrekken…</string>
   <string name="privacy_authorize_success">Toestemming gegeven</string>
   <string name="privacy_authorize_title">Toestemming gegeven</string>
   <string name="privacy_close_dlg_button_ok">Uitschakelen</string>
@@ -3448,9 +3437,6 @@ Selecteer het OS van uw computer:"</string>
   <string name="privacy_password_use_finger_dialog_title">Ontgrendelen met vingerafdruk</string>
   <string name="privacy_password_use_finger_success">Ingeschakeld</string>
   <string name="privacy_password_visible_pattern">Patroon weergeven</string>
-  <string name="privacy_protect_title">Privacybescherming</string>
-  <string name="privacy_relative">Privacy-gerelateerd</string>
-  <string name="privacy_settings">Back-up</string>
   <string name="privacy_settings_title">Back-up &amp; herstel</string>
   <string name="private_gallery_need_to_unlock">Wachtwoord nodig:</string>
   <string name="private_gallery_recording_intro_header">Teken een ontgrendelpatroon:</string>

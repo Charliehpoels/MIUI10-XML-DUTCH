@@ -291,13 +291,11 @@
   <string name="battery">Batterij</string>
   <string name="battery_detail_charging_summary">Batterijbesparing is niet beschikbaar tijdens het opladen</string>
   <string name="battery_detail_switch_summary">Reduceert prestatie- en achtergrondgegevens</string>
-  <string name="battery_detail_switch_title">Batterijbesparing</string>
   <string name="battery_info_status_charging">Opladen</string>
   <string name="battery_info_status_charging_lower">Opladen</string>
   <string name="battery_info_status_discharging">Niet aangesloten</string>
   <string name="battery_info_status_full">Volledig opgeladen</string>
   <string name="battery_info_status_not_charging">Niet aan het opladen</string>
-  <string name="battery_info_status_unknown">Onbekend</string>
   <string name="battery_low_percent_format">%d%% resterend</string>
   <string name="battery_low_percent_format_saver_started">%s resterend. Batterijbesparing is ingeschakeld.</string>
   <string name="battery_low_title">Sluit de oplader aan</string>

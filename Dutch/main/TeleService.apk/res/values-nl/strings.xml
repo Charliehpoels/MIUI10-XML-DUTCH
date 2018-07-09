@@ -162,7 +162,6 @@
   <string name="auto_answer_delay_entries_delay_3s">3 seconden</string>
   <string name="auto_answer_delay_entries_delay_5s">5 seconden</string>
   <string name="auto_answer_delay_entries_immediately">Geen vertraging</string>
-  <string name="auto_answer_delay_title">Vertraag automatisch antwoord</string>
   <string name="auto_answer_pref_summary">Inkomende oproepen automatisch opnemen</string>
   <string name="auto_answer_pref_title">Automatisch antwoord</string>
   <string name="auto_answer_scenario_enteries_always">Altijd</string>
